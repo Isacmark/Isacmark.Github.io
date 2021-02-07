@@ -1,0 +1,74 @@
+#wrapper{
+  width:100%;
+  margin-left: auto;
+}
+
+header{
+  height: 100px;
+  width: 100%;
+  background-color:pink;
+}
+nav{
+height: 50px;
+width: 100%;
+background-color: #Fa2Fa5;
+
+}
+main{
+  height: 400px;
+  width: 70%;
+  background-color: #bacFaF;
+
+}
+aside{
+  height: 400px;
+  width: 30%;
+  background-color: #FcbFaF;
+
+}
+footer{
+  height: 50px;
+  width: 100%;
+  background-color: #baaF60;
+
+}
+#container{
+display:flex;
+
+}
+
+
+/* unvisited link */
+a:link {
+  color: green;
+text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: yellow;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
+}
+
+h3 {
+  text-align: right;
+}
