@@ -6,30 +6,30 @@
 header{
   height: 100px;
   width: 100%;
-  background-color:pink;
+  background-color:#3464eb;
 }
 nav{
 height: 50px;
 width: 100%;
-background-color: #Fa2Fa5;
+background-color: #ffffff;
 
 }
 main{
   height: 400px;
   width: 70%;
-  background-color: #bacFaF;
+  background-color: #ffffff;
 
 }
 aside{
   height: 400px;
   width: 30%;
-  background-color: #FcbFaF;
+  background-color: #ffffff;
 
 }
 footer{
   height: 50px;
   width: 100%;
-  background-color: #baaF60;
+  background-color: #4d4e52;
 
 }
 #container{
